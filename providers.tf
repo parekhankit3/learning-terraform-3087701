@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     aws = {
-      source  = "parekhankit3/aws"
+      source  = "hashicorp/aws"
     }
   }
 }
